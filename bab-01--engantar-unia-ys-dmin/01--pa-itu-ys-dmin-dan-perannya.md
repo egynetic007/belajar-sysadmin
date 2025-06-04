@@ -27,4 +27,4 @@ Sysadmin mempunyai beberapa peran atau tugasnya, seperti :
 
 
 
-Link references : [](https://www.goldenfast.net/blog/system-administrator/)
+Link references : [https://www.goldenfast.net/blog/system-administrator/](https://www.goldenfast.net/blog/system-administrator/)
