@@ -2,7 +2,7 @@
 
 ## User (Pengguna)
   - setiap orang yang menggunakan sistem operasi disebut User, kalo di Linux ada 3 jenis users :
-      1. root   : akses penuh ke sistem
+      1) root   : akses penuh ke sistem
       2. Regular User : akses terbatas
       3. System User : layanan sistem
 ## Group (Kelompok Pengguna)
