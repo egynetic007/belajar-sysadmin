@@ -7,5 +7,7 @@
 5. DHCP (Dinamic Host Configuration Protocol) adalah Protocol yang secara otomatis memberika IP addres ke perangkat, Fungsinya menghindari pengaturan manual IP, mempermudah koneksi ke jaringan.
 
 **Link :** 
+
 [https://socs.binus.ac.id/2020/11/16/konfigurasi-jaringan-dns-dhcp/](https://socs.binus.ac.id/2020/11/16/konfigurasi-jaringan-dns-dhcp/)
+
 [https://blog.unnes.ac.id/atikaisma/2016/03/11/](https://blog.unnes.ac.id/atikaisma/2016/03/11/pengertian-ip-addressdnsgetawaysubnetmaskbroadcastdan-ip-network/)
