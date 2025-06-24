@@ -39,5 +39,8 @@
      - Menggunakan data untuk membuat keputusan dan meningkatkan keandalan secara proaktif.
      - Seringkali terlibat dalam pengkodean untuk membangun alat otomatisasi dan meningkatkan sistem.
      - Fokus pada bagaimana cara melakukan sesuatu agar sistem menjadi lebih baik dan andal.
+   - Mindset        : Pendekatan berbasis data, rekayasa untuk keandalan, otomatisasi ekstrem, dan pengukuran performa.
+   - Tools Umum     : Prometheus, Grafana, ELK Stack, PagerDuty, dan alat otomatisasi yang sama dengan DevOps, namun seringkali dengan
+                      fokus yang lebih mendalam pada pengembangan alat internal.
 
       
