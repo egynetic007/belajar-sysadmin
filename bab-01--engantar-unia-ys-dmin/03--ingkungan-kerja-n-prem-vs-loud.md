@@ -8,3 +8,5 @@
 - Infrastruktur IT disimpan dan dikelola oleh penyedia layanan cloud (misalnya AWS, Azure, Google Cloud).
 - Akses melalui internet, fleksibel dan skalabel.
 - Cocok untuk perusahaan yang ingin efisiensi biaya dan kemudahan akses.
+
+Link Referensi : [https://www.jetorbit.com/blog/on-premise-vs-cloud-perbedaan-kelebihan/](https://www.jetorbit.com/blog/on-premise-vs-cloud-perbedaan-kelebihan/)
