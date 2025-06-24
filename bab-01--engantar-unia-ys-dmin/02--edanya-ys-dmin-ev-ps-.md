@@ -17,13 +17,14 @@
    - Fokus Utama    : Membangun jembatan antara tim pengembangan (Development) dan tim operasi (Operations) untuk mempercepat pengiriman
      perangkat lunak, meningkatkan kualitas, dan memungkinkan deployment yang lebih lincah dan andal. DevOps adalah sebuah budaya dan
      filosofi, bukan hanya sebuah peran.
-   - Tanggung Jawab : **-** Mendorong kolaborasi dan komunikasi antar tim.
-                      **-** Meningkatkan otomatisasi di seluruh siklus hidup pengembangan perangkat lunak (CI/CD - Continuous
-                        Integration/Continuous Delivery).
-                      **-** Mengimplementasikan praktik seperti infrastruktur sebagai kode (Infrastructure as Code - IaC).
-                      **-** Memastikan alur kerja yang mulus dari pengembangan hingga produksi.
-                      **-** Proaktif dalam mencari solusi dan otomatisasi untuk masalah.
-                      **-** Fokus pada apa yang perlu dilakukan untuk membuat sistem lebih baik.
+   - Tanggung Jawab :
+     **-** Mendorong kolaborasi dan komunikasi antar tim.
+     **-** Meningkatkan otomatisasi di seluruh siklus hidup pengembangan perangkat lunak (CI/CD - Continuous Integration/Continuous
+           Delivery).
+     **-** Mengimplementasikan praktik seperti infrastruktur sebagai kode (Infrastructure as Code - IaC).
+     **-** Memastikan alur kerja yang mulus dari pengembangan hingga produksi.
+     **-** Proaktif dalam mencari solusi dan otomatisasi untuk masalah.
+     **-** Fokus pada apa yang perlu dilakukan untuk membuat sistem lebih baik.
    - Mindset        : Kolaborasi, otomatisasi, perbaikan berkelanjutan, dan pengiriman yang cepat.
    - Tools Umum     : Jenkins, Git, Docker, Kubernetes, Ansible, Chef, Puppet, Terraform.
 
