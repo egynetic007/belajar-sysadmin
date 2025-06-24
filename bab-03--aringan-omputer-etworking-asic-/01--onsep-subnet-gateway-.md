@@ -8,5 +8,5 @@
 
 
 **Link :** 
-[https://socs.binus.ac.id/2020/11/16/konfigurasi-jaringan-dns-dhcp/](https://socs.binus.ac.id/2020/11/16/konfigurasi-jaringan-dns-dhcp/)
-[https://blog.unnes.ac.id/atikaisma/2016/03/11/](https://blog.unnes.ac.id/atikaisma/2016/03/11/pengertian-ip-addressdnsgetawaysubnetmaskbroadcastdan-ip-network/)
+-- [https://socs.binus.ac.id/2020/11/16/konfigurasi-jaringan-dns-dhcp/](https://socs.binus.ac.id/2020/11/16/konfigurasi-jaringan-dns-dhcp/)
+-- [https://blog.unnes.ac.id/atikaisma/2016/03/11/](https://blog.unnes.ac.id/atikaisma/2016/03/11/pengertian-ip-addressdnsgetawaysubnetmaskbroadcastdan-ip-network/)
