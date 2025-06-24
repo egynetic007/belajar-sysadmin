@@ -27,5 +27,17 @@
      **-** Fokus pada apa yang perlu dilakukan untuk membuat sistem lebih baik.
    - Mindset        : Kolaborasi, otomatisasi, perbaikan berkelanjutan, dan pengiriman yang cepat.
    - Tools Umum     : Jenkins, Git, Docker, Kubernetes, Ansible, Chef, Puppet, Terraform.
+  
+3. Site Reliability Engineer (SRE)
+   - Fokus Utama    : Keandalan, skalabilitas, dan efisiensi sistem dalam produksi. SRE adalah implementasi dari prinsip-prinsip DevOps,
+     dengan fokus yang sangat kuat pada rekayasa (engineering) untuk mencapai keandalan. Google adalah pelopor konsep SRE.
+   - Tanggung Jawab :
+     - Memastikan sistem memenuhi tujuan keandalan (reliability goals) yang ketat.
+     - Menerapkan sistem pemantauan (monitoring) dan peringatan (alerting) yang canggih.
+     - Mengotomatiskan tugas-tugas operasional yang berulang (eliminasi "toil").
+     - Manajemen insiden dan analisis akar masalah (root cause analysis).
+     - Menggunakan data untuk membuat keputusan dan meningkatkan keandalan secara proaktif.
+     - Seringkali terlibat dalam pengkodean untuk membangun alat otomatisasi dan meningkatkan sistem.
+     - Fokus pada bagaimana cara melakukan sesuatu agar sistem menjadi lebih baik dan andal.
 
       
