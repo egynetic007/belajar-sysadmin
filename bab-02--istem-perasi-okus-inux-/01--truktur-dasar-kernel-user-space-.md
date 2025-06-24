@@ -6,3 +6,5 @@
     - Contohnya : Linux Kernel, Window NT Kernel, XNU MacOS
 - User Space    : adalah tempat di mana semua aplikasi pengguna, utilitas sistem, dan sebagian besar proses non-inti beroperasi. Program-program di user space tidak memiliki akses langsung ke perangkat keras atau bagian-bagian inti dari sistem operasi.
     - Fungsi utamanya : Menjalankan Aplikasi pengguna, hak akses nya terbatas, lingkungan terilolasi.
+ 
+      Link : [https://www.itkoding.com/arsitektur-dasar-sistem-operasi/](https://www.itkoding.com/arsitektur-dasar-sistem-operasi/)
