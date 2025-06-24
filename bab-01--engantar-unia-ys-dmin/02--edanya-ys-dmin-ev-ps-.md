@@ -4,12 +4,12 @@
    - Fokus Utamanya adalah     : Stabilitas, keamanan, dan pemeliharaan infrastruktur IT tradisional (server, jaringan, sistem operasi,
      database).
    - Tanggung Jawabnya adalah  :
-     - Instalasi, konfigurasi, dan pembaruan perangkat keras dan perangkat lunak.
-     - Pemantauan kinerja sistem dan pemecahan masalah (troubleshooting).
-     - Manajemen cadangan data (backup) dan pemulihan (recovery).
-     - Mengatur keamanan sistem (firewall, patch keamanan, dll.).
-     - Cenderung reaktif terhadap masalah dan perubahan.
-     - Seringkali melibatkan tugas manual dan hands-on.
+      - Instalasi, konfigurasi, dan pembaruan perangkat keras dan perangkat lunak.
+      - Pemantauan kinerja sistem dan pemecahan masalah (troubleshooting).
+      - Manajemen cadangan data (backup) dan pemulihan (recovery).
+      - Mengatur keamanan sistem (firewall, patch keamanan, dll.).
+      - Cenderung reaktif terhadap masalah dan perubahan.
+      - Seringkali melibatkan tugas manual dan hands-on.
    - Mindset                   : Fokus pada menjaga sistem berjalan lancar, aman, dan up-to-date.
    - Tools umum yang digunakan : Nagios, Zabbix, MySQL, PostgreSQL, Linux, Windows, Unix.
 
