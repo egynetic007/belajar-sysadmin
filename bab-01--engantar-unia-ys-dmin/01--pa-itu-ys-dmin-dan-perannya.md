@@ -7,7 +7,7 @@ Sysadmin mempunyai beberapa peran atau tugasnya, seperti :
 1) Install dan konfigurasi system
    - pemasarangan software, sistem operasi (windows, linux, macos, linux server / windows server) sampe aplikasi-aplikasi yang dibutuhin kantor.
      contohnya : installasi ubuntu server di kantor buat dipake databae
-2) Monitoring dan Maintanca
+2) Monitoring dan Maintance
    - mengecek server, apakah server jalan atau mati, mengecek CPU apakah kepenuhan atau tidak, mengecek storage apakah penuh atau tidak.
      sysadmin bisa menggunakan tools tools buat memantau kondisi server, seperti tools Nagios contohnya.
 3) Backup dan Recovery
@@ -24,7 +24,7 @@ Sysadmin mempunyai beberapa peran atau tugasnya, seperti :
    - Sysadminn juga bertugas mendokumentasikan permintaan end-user, kebutuhan bisnis, dan permasalahan teknis sebagai dasar untuk tracking serta perencanaan upgrade, penyesuaian,
      dan pengembangan sistem.
   
-
+## Jawaban Lain di soal no 2 
 
 
 Link references : [https://www.goldenfast.net/blog/system-administrator/](https://www.goldenfast.net/blog/system-administrator/)
