@@ -13,3 +13,6 @@ File System Hierarchy (FSH) adalah standar struktur direktori dan file pada sist
   - /lib  :  Berisi pustaka bersama (shared libraries) penting yang dibutuhkan oleh binary executable di /bin dan /sbin untuk menjalankan program.
   - /usr  : direktori terpenting dan terbesar, berisi sebagian besar utilitas dan aplikasi yang diinstal di sistem. Berisi "user-land" dari sistem operasi.
   - /tmp  : Berisi file-file sementara yang dibuat oleh program. File-file di sini dapat dihapus saat sistem reboot atau secara berkala oleh sistem.
+ 
+  - Link : [https://www.dunialinux.id/mengenal-struktur-direktori-pada-linux/](https://www.dunialinux.id/mengenal-struktur-direktori-pada-linux/)
+  - Link : [https://www.petanikode.com/linux-struktur-direktori.html](https://www.petanikode.com/linux-struktur-direktori.html)
