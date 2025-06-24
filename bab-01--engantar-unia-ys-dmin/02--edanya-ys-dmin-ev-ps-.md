@@ -44,9 +44,9 @@
                       fokus yang lebih mendalam pada pengembangan alat internal.
 
      Link referensi :
-     [https://www.pagerduty.com/resources/devops/learn/what-is-system-administrator/](https://www.pagerduty.com/resources/devops/learn/what-is-system-administrator/)
-     [https://www.redhat.com/en/topics/devops/what-is-devops]( https://www.redhat.com/en/topics/devops/what-is-devops)
-     [https://en.wikipedia.org/wiki/Site_reliability_engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+   - [https://www.pagerduty.com/resources/devops/learn/what-is-system-administrator/](https://www.pagerduty.com/resources/devops/learn/what-is-system-administrator/)
+   - [https://www.redhat.com/en/topics/devops/what-is-devops]( https://www.redhat.com/en/topics/devops/what-is-devops
+   - [https://en.wikipedia.org/wiki/Site_reliability_engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
      
 
       
