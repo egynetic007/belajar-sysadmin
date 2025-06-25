@@ -15,6 +15,7 @@
 
 - Link :
   - [https://emka.web.id/2023/08/cara-menggunakan-perintah-ping-untuk-menguji-jaringan-anda.html](https://emka.web.id/2023/08/cara-menggunakan-perintah-ping-untuk-menguji-jaringan-anda.html)
+  - [https://www.indowebsite.co.id/kb/cara-ping-dan-tracert-domain-dengan-command/](https://www.indowebsite.co.id/kb/cara-ping-dan-tracert-domain-dengan-command/)
 
 
 
