@@ -14,7 +14,7 @@
 - DIG (Domain Information Groper) - DIG adalah utilitas baris perintah untuk melakukan kueri server DNS (Domain Name System). Ini sangat berguna untuk memecahkan masalah DNS, memeriksa catatan DNS (seperti A, MX, NS, CNAME), dan memahami bagaimana nama domain diselesaikan menjadi alamat IP. DIG memberikan informasi rinci tentang jawaban DNS, termasuk server DNS yang menjawab, waktu kueri, dan semua catatan DNS yang relevan.
 
 - Link :
-  [https://emka.web.id/2023/08/cara-menggunakan-perintah-ping-untuk-menguji-jaringan-anda.html](https://emka.web.id/2023/08/cara-menggunakan-perintah-ping-untuk-menguji-jaringan-anda.html)
+  - [https://emka.web.id/2023/08/cara-menggunakan-perintah-ping-untuk-menguji-jaringan-anda.html](https://emka.web.id/2023/08/cara-menggunakan-perintah-ping-untuk-menguji-jaringan-anda.html)
 
 
 
