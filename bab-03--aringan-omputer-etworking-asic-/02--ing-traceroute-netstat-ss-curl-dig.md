@@ -14,3 +14,9 @@ Baris kedua
 
 Baris pertama  
 Baris kedua
+
+coba satu spasi 
+sjkdsnkasns
+
+coba dua spaci  
+jskndksnsk
