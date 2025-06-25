@@ -11,4 +11,12 @@
   SS menyediakan informasi yang lebih detail tentang soket TCP dan UDP, termasuk koneksi yang didengarkan, koneksi yang terhubung, dan statistik penggunaan soket. Ini sering direkomendasikan sebagai pengganti Netstat di lingkungan Linux karena performa dan fitur tambahannya
 - cURL (Client URL) -  cURL adalah alat baris perintah dan pustaka untuk mentransfer data dengan sintaks URL. Ini mendukung berbagai protokol, termasuk HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP, dan RTMP.
    cURL sering digunakan untuk menguji API web, mengunduh atau mengunggah file dari server, dan berinteraksi dengan server web secara langsung dari terminal. Ini sangat serbaguna dan dapat digunakan untuk banyak tugas terkait jaringan dan transfer data.
+- DIG (Domain Information Groper) - DIG adalah utilitas baris perintah untuk melakukan kueri server DNS (Domain Name System). Ini sangat berguna untuk memecahkan masalah DNS, memeriksa catatan DNS (seperti A, MX, NS, CNAME), dan memahami bagaimana nama domain diselesaikan menjadi alamat IP. DIG memberikan informasi rinci tentang jawaban DNS, termasuk server DNS yang menjawab, waktu kueri, dan semua catatan DNS yang relevan.
 
+- Link :
+  [https://emka.web.id/2023/08/cara-menggunakan-perintah-ping-untuk-menguji-jaringan-anda.html](https://emka.web.id/2023/08/cara-menggunakan-perintah-ping-untuk-menguji-jaringan-anda.html)
+
+
+
+
+  
