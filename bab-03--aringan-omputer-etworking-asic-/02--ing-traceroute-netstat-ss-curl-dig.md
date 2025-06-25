@@ -13,7 +13,7 @@
    cURL sering digunakan untuk menguji API web, mengunduh atau mengunggah file dari server, dan berinteraksi dengan server web secara langsung dari terminal. Ini sangat serbaguna dan dapat digunakan untuk banyak tugas terkait jaringan dan transfer data.
 - DIG (Domain Information Groper) - DIG adalah utilitas baris perintah untuk melakukan kueri server DNS (Domain Name System). Ini sangat berguna untuk memecahkan masalah DNS, memeriksa catatan DNS (seperti A, MX, NS, CNAME), dan memahami bagaimana nama domain diselesaikan menjadi alamat IP. DIG memberikan informasi rinci tentang jawaban DNS, termasuk server DNS yang menjawab, waktu kueri, dan semua catatan DNS yang relevan.
 
-## - Link :
+### - Link :
   - [https://emka.web.id/2023/08/cara-menggunakan-perintah-ping-untuk-menguji-jaringan-anda.html](https://emka.web.id/2023/08/cara-menggunakan-perintah-ping-untuk-menguji-jaringan-anda.html)
   - [https://www.indowebsite.co.id/kb/cara-ping-dan-tracert-domain-dengan-command/](https://www.indowebsite.co.id/kb/cara-ping-dan-tracert-domain-dengan-command/)
   - [https://vivoglobal.id/5-perintah-dasar-command-prompt-untuk-jaringan-yang-sering-digunakan/](https://vivoglobal.id/5-perintah-dasar-command-prompt-untuk-jaringan-yang-sering-digunakan/)
