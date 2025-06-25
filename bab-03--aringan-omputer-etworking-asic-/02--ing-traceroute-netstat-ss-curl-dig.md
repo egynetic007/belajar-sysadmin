@@ -13,4 +13,3 @@
   spapsi1
   spapci dua
   
-  test
